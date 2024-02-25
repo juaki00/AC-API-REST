@@ -1,0 +1,7 @@
+com.mongodb.starter
+com.mongodb.starter.dtos
+com.mongodb.starter.extra
+com.mongodb.starter.models
+com.mongodb.starter.repositories
+com.mongodb.starter.services
+com.mongodb.starter.web

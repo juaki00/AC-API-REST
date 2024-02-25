@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mongodb.starter"},{"l":"com.mongodb.starter.dtos"},{"l":"com.mongodb.starter.extra"},{"l":"com.mongodb.starter.models"},{"l":"com.mongodb.starter.repositories"},{"l":"com.mongodb.starter.services"},{"l":"com.mongodb.starter.web"}];updateSearchResults();
